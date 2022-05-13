@@ -21,7 +21,7 @@
  * deinterlace video filter - V4L2 M2M
  */
 
-#include <drm_fourcc.h>
+#include <libdrm/drm_fourcc.h>
 
 #include <linux/videodev2.h>
 
